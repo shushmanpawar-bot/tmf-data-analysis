@@ -1,0 +1,17 @@
+﻿Study,Document,Status,Date,Owner
+Study1,Protocol,Complete,01-01-2023,John
+Study1,ICF,Missing,,Sarah
+Study1,SAP,Complete,05-01-2023,Amit
+Study2,Protocol,Complete,01-02-2023,Ravi
+Study2,ICF,Complete,03-02-2023,Neha
+Study2,CSR,Missing,,John
+Study3,Protocol,Complete,01-03-2023,Meera
+Study3,ICF,Missing,,Amit
+Study3,SAP,Complete,05-03-2023,Ravi
+Study3,CSR,Complete,10-03-2023,Neha
+Study4,Protocol,Missing,,John
+Study4,ICF,Complete,02-04-2023,Meera
+Study4,SAP,Complete,05-04-2023,Sarah
+Study5,Protocol,Complete,01-05-2023,Amit
+Study5,ICF,Missing,,Ravi
+Study5,CSR,Complete,10-05-2023,Neha
