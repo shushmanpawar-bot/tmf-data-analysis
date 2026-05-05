@@ -1,17 +1,14 @@
-# tmf-data-analysis
-# TMF Data Analysis Project
+# TMF Document Analysis
 
-This project analyses TMF document completeness using Python.
+This project analyses TMF data to calculate completeness and identify missing documents.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## Tools
+Python, Pandas, Matplotlib
 
-## Key Features
-- Identifies missing documents
-- Calculates completeness %
-- Generates visual reports
+## Features
+- Completeness %
+- Missing documents
+- Visualisation
 
 ## Outcome
-Improved understanding of TMF metrics and inspection readiness
+Supports TMF inspection readiness
